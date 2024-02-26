@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Image Volume Estimation and procesing
 - 💞️ I’m looking to collaborate on NutriCam
 - 📫 How to reach me just mail me  @ aarbazkhan10@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+
 
 <!---
 Arbaazkhan-10/Arbaazkhan-10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
